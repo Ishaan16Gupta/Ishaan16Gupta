@@ -8,9 +8,9 @@ Hi I am Ishaan Gupta<br><br>I'm a third year Comp-Sci student at NSUT Delhi. I l
 - [Email](mailto:ishaan16gupta@gmail.com) 
 
 
-## Tech Stack
+## Tech Stack:
 
-*Languages:* C#, C++, Java, Python, TypeScript
+**Languages:** C#, C++, Java, Python, TypeScript
 
 **Backend:** ASP.NET Core, Flask, FastAPI, Node.js
 
