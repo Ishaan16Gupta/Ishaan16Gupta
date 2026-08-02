@@ -1,5 +1,5 @@
 # About Me:
-Hi I am Ishaan Gupta<br><br>I'm a third year Comp-Sci student at NSUT Delhi. I love working on Machine Learning projects and am probably working on some as we speak :)<br>(Hit me up if you have a good one to work on)<br>I type a lot (reached 120 wpm in like a year) and statistically speaking will probably beat you in typeracer.<br>
+Hi I am Ishaan Gupta<br><br>I'm a third year Computer Science student at NSUT Delhi. I love working on Machine Learning projects and am probably working on some as we speak :)<br>(Hit me up if you have a good one to work on)<br>I type a lot (reached 120 wpm in like a year) and statistically speaking will probably beat you in typeracer.<br>
 
 
 ## Contact me:
