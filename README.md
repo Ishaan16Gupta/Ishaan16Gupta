@@ -12,9 +12,7 @@ Hi I am Ishaan Gupta<br><br>I'm a third year Comp-Sci student at NSUT Delhi. I l
 
 **Languages:** C#, C++, Java, Python, TypeScript
 
-**Backend:** ASP.NET Core, Flask, FastAPI, Node.js
-
-**Frontend:** Angular, React
+**Frameworks:** ASP.NET Core, Flask, FastAPI, Node.js, Angular, React
 
 **Databases:** MS SQL Server, MySQL, MongoDB
 
@@ -23,9 +21,3 @@ Hi I am Ishaan Gupta<br><br>I'm a third year Comp-Sci student at NSUT Delhi. I l
 **AI/ML:** PyTorch, TensorFlow, Scikit-learn, Keras, NumPy, Pandas
 
 **Tools:** Git, GitHub, Figma, Canva
-
-### Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,ts,dotnet,angular,react,flask,fastapi,nodejs,mysql,mongodb,git,github,azure,gcp,tensorflow,pytorch,figma" />
-</p>
