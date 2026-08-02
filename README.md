@@ -10,9 +10,9 @@ Hi I am Ishaan Gupta<br><br>I'm a third year Computer Science student at NSUT De
 
 ## Tech Stack
 
-**Languages:** C#, C++, Java, Python, TypeScript
+**Languages:** Python, C#, C++, Java, TypeScript
 
-**Frameworks:** ASP.NET Core, Flask, FastAPI, Node.js, Angular, React
+**Frameworks:** Flask, FastAPI, ASP.NET Core, Node.js, Angular, React
 
 **Databases:** MS SQL Server, MySQL, MongoDB
 
